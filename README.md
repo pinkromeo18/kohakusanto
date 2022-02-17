@@ -1,8 +1,10 @@
 # kohakusanto
-<img src="/img/1.jpg">
-<img src="/img/2.jpg">
-<img src="/img/3.jpg">
-<img src="/img/4.jpg">
-<img src="/img/5.jpg">
-<img src="/img/6.jpg">
-<img src="/img/7.jpg">
+- https://pinkromeo18.github.io/kohakusanto/
+- https://pinkromeo18.github.io/kohakusanto/img/
+<img src="https://pinkromeo18.github.io/kohakusanto/img/1.jpg">
+<img src="https://pinkromeo18.github.io/kohakusanto//img/2.jpg">
+<img src="https://pinkromeo18.github.io/kohakusanto//img/3.jpg">
+<img src="https://pinkromeo18.github.io/kohakusanto//img/4.jpg">
+<img src="https://pinkromeo18.github.io/kohakusanto//img/5.jpg">
+<img src="https://pinkromeo18.github.io/kohakusanto//img/6.jpg">
+<img src="https://pinkromeo18.github.io/kohakusanto//img/7.jpg">
