@@ -8,3 +8,4 @@
 <img src="https://pinkromeo18.github.io/kohakusanto//img/5.jpg">
 <img src="https://pinkromeo18.github.io/kohakusanto//img/6.jpg">
 <img src="https://pinkromeo18.github.io/kohakusanto//img/7.jpg">
+<img src="https://pinkromeo18.github.io/kohakusanto//img/8.jpg">
