@@ -1,6 +1,8 @@
 # kohakusanto
 - https://pinkromeo18.github.io/kohakusanto/
 - https://pinkromeo18.github.io/kohakusanto/img/
+
+<img src="https://pinkromeo18.github.io/kohakusanto/img/kohakusan-icon.jpg">  
 <img src="https://pinkromeo18.github.io/kohakusanto/img/1.jpg">
 <img src="https://pinkromeo18.github.io/kohakusanto//img/2.jpg">
 <img src="https://pinkromeo18.github.io/kohakusanto//img/3.jpg">
